@@ -2,8 +2,7 @@
 
 An NHS England–level Power BI analysis exploring what most strongly aligns with A&E 4-hour breach performance, focusing on the relationship between demand, patient flow, and exit block.
 
-![A&E Dashboard](images/A&E Dashboard.png)
-
+![A&E Dashboard](images/ae_dashboard.png)
 ---
 
 ## Key Insight
@@ -36,9 +35,9 @@ The aim is to support system-level understanding of A&E performance pressures, a
 - **Time-series analysis** showing breach rates and exit block moving closely together over time
 - **Scatter analysis** demonstrating weak correlation between demand and breach rates at similar attendance levels
 
-![Exit Block vs Breach Rate](images/A&E time flow.png)
+![Exit Block vs Breach Rate](images/ae_time_flow.png)
 
-![Demand vs Breach Rate](images/A&E Scatter chart.png)
+![Demand vs Breach Rate](images/ae_scatter.png)
 
 ---
 
